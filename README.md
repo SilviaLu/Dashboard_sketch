@@ -9,6 +9,7 @@ Contenido
 * Promedio de notas por sprint.
 * Promedio de notas HSE.
 * Promedio de notas técnicas.
+
 ***
 
 ![sketch](assets/dashboard_imagen.jpg)
