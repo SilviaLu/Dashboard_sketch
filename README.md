@@ -10,4 +10,5 @@ Contenido
 * Promedio de notas HSE.
 * Promedio de notas técnicas.
 ***
-![Con titulo](assets/dashboard_imagen.jpg "titulo")
+
+![sketch](assets/dashboard_imagen.jpg)
